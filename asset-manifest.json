@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/aine/static/css/main.cb580448.chunk.css",
+    "main.js": "/aine/static/js/main.fcfdc3b9.chunk.js",
+    "main.js.map": "/aine/static/js/main.fcfdc3b9.chunk.js.map",
+    "runtime-main.js": "/aine/static/js/runtime-main.9f050b15.js",
+    "runtime-main.js.map": "/aine/static/js/runtime-main.9f050b15.js.map",
+    "static/css/2.c1d63bbd.chunk.css": "/aine/static/css/2.c1d63bbd.chunk.css",
+    "static/js/2.4cf2b93a.chunk.js": "/aine/static/js/2.4cf2b93a.chunk.js",
+    "static/js/2.4cf2b93a.chunk.js.map": "/aine/static/js/2.4cf2b93a.chunk.js.map",
+    "static/js/3.df01e847.chunk.js": "/aine/static/js/3.df01e847.chunk.js",
+    "static/js/3.df01e847.chunk.js.map": "/aine/static/js/3.df01e847.chunk.js.map",
+    "index.html": "/aine/index.html",
+    "static/css/2.c1d63bbd.chunk.css.map": "/aine/static/css/2.c1d63bbd.chunk.css.map",
+    "static/css/main.cb580448.chunk.css.map": "/aine/static/css/main.cb580448.chunk.css.map",
+    "static/js/2.4cf2b93a.chunk.js.LICENSE.txt": "/aine/static/js/2.4cf2b93a.chunk.js.LICENSE.txt",
+    "static/media/Recognition.e8ad3bc2.png": "/aine/static/media/Recognition.e8ad3bc2.png",
+    "static/media/semantic.min.css": "/aine/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/international-womens-day-issues_2x.4d084735.png": "/aine/static/media/international-womens-day-issues_2x.4d084735.png",
+    "static/media/movie3.845753c6.mp4": "/aine/static/media/movie3.845753c6.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f050b15.js",
+    "static/css/2.c1d63bbd.chunk.css",
+    "static/js/2.4cf2b93a.chunk.js",
+    "static/css/main.cb580448.chunk.css",
+    "static/js/main.fcfdc3b9.chunk.js"
+  ]
+}
